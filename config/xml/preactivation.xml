@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<partners>
+<partner>
+	<name><![CDATA[Stripe]]></name>
+	<module>stripejs</module>
+	<checkconfiguration>
+		<key>STRIPE_MODE</key>
+	</checkconfiguration>
+	<logo><![CDATA[http://api.prestashop.com/partner/premium/images/stripe.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Stripe makes it easy to start accepting credit cards on the web]]></label>
+	</labels>
+	<optionals>
+		<optional iso="en"><![CDATA[http://api.prestashop.com/partner/premium/images/stripe/en.png]]></optional>
+	</optionals>
+	<descriptions>
+		<description iso="en"><![CDATA[]]></description>
+	</descriptions>
+</partner>
+</partners>

@@ -1,0 +1,53 @@
+.content_scene_cat {
+    padding:5px;
+    border:1px solid #ccc;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 1px 1px #e2e2e2;
+    -webkit-box-shadow: 0 1px 1px #e2e2e2;
+    box-shadow: 0 1px 1px #e2e2e2;
+}
+
+.cat_desc {
+    font-size:12px;
+    line-height:18px;
+    margin-top: 10px;
+}
+.cat_desc p {margin-bottom: 5px;}
+.cat_desc .lnk_more {
+   padding:0 10px;
+   color:#0088CC;
+    background:url(../img/arrow_right_1.png) no-repeat 100% 4px transparent;
+}
+
+
+/* ************************************************************************************************
+      SUB CATEGORIES
+************************************************************************************************ */
+#subcategories {margin-top:15px}
+#subcategories h3 {
+    color: #5C5C5C;
+    border-bottom: 1px solid #DBDBDB;
+    padding-bottom: 5px;
+}
+
+.inline_list {
+    list-style-type:none;
+    margin-top:10px;
+}
+.inline_list  li {
+    padding:10px 0;
+    border-bottom:1px dotted #ccc
+}
+.inline_list  li .img {
+    float:left;
+    margin-right:15px
+}
+.inline_list  li img {
+    border:1px solid #ccc
+}
+.inline_list  li .cat_name {
+    font-weight:bold;
+    font-size:13px
+}

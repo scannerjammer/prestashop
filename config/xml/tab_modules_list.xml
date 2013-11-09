@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tab_modules_list>
+   <tab class_name="AdminInformation" display_type="slider_list">
+      <module name="autoupgrade" position="1" />
+      <module name="cloudcache" position="2" />
+   </tab>
+   <tab class_name="AdminReferrers" display_type="slider_list">
+      <module name="trackingfront" position="1" />
+   </tab>
+   <tab class_name="AdminOrderPreferences" display_type="slider_list">
+      <module name="mailalerts" position="1" />
+   </tab>
+   <tab class_name="AdminPPreferences" display_type="slider_list">
+      <module name="mailalerts" position="1" />
+      <module name="feeder" position="2" />
+   </tab>
+   <tab class_name="AdminPayment" display_type="default_list">
+      <module name="paypal" position="1" />   
+      <module name="paypalusa" position="2" />     
+      <module name="merchantware" position="3" />
+      <module name="moneybookers" position="4" />
+      <module name="stripejs" position="5" />
+      <module name="alliedwallet" position="6" />
+      <module name="hipay" position="7" />
+      <module name="ogone" position="8" />
+      <module name="trustly" position="9" />
+      <module name="authorizeaim" position="10" />
+	  <module name="atos" position="11" />
+      <module name="wexpay" position="12" />
+      <module name="kwixo" position="13" />
+	  <module name="bankwire" position="14" />
+	  <module name="cheque" position="15" />
+      <module name="firstdata" position="16" /> 
+      <module name="payulatam" position="17" /> 
+      <module name="klarnaprestashop" position="18" />
+	  <module name="cmcicpaiement" position="19" />	  
+      <module name="Pagseguro" position="20" />
+	  <module name="cashondelivery" position="21" />
+      <module name="gcheckout" position="22" />
+	  <module name="paybox" position="23" />      
+      <module name="lacaixa" position="24" />
+      <module name="qiwi" position="25" />
+      <module name="worldpay" position="26" />
+      <module name="dotpay" position="27" />
+   </tab>
+   <tab class_name="AdminMarketing" display_type="default_list">
+      <module name="ebay" position="1" />      
+      <module name="gadwords" position="2" />
+      <module name="addshoppers" position="3" />
+      <module name="nqgatewayneteven" position="4" />
+      <module name="loyalty" position="5" />
+      <module name="referralprogram" position="6" />
+      <module name="shoppingfluxexport" position="7" />
+      <module name="shoppingfeedexport" position="8" />
+      <module name="prediggo" position="9" />
+      <module name="yotpo" position="10" />
+      <module name="twenga" position="11" />
+      <module name="itembase" position="12" />
+      <module name="fidbag" position="13" />
+      <module name="trustedshops" position="14" />
+      <module name="seohelping" position="15" />
+      <module name="innovativemenu" position="16" />
+   </tab>
+   <tab class_name="AdminCustomerThreads" display_type="slider_list">
+      <module name="zingaya" position="1" />
+      <module name="fianetfraud" position="2" />
+   </tab>
+   <tab class_name="AdminStats" display_type="">
+      <module name="jirafe" position="1" />
+      <module name="ganalytics" position="2" />
+      <module name="statsstock" position="3" />
+      <module name="statsbestcategories" position="4" />
+      <module name="statsbestcustomers" position="5" />
+      <module name="statsbestmanufacturers" position="6" />
+      <module name="statsbestproducts" position="7" />
+      <module name="statscarrier" position="8" />
+      <module name="statscheckup" position="9" />
+      <module name="statscatalog" position="10" />
+      <module name="statsregistrations" position="11" />
+      <module name="statssales" position="12" />
+      <module name="statsdata" position="13" />
+      <module name="favoriteproducts" position="14" />
+      <module name="statsgeolocation" position="15" />
+      <module name="ganalytics" position="16" />
+      <module name="statsnewsletter" position="17" />
+      <module name="pagesnotfound" position="18" />
+      <module name="statsproduct" position="19" />
+      <module name="statspersonalinfos" position="20" />
+      <module name="sekeywords" position="21" />
+      <module name="statssearch" position="22" />
+      <module name="statsequipment" position="23" />
+      <module name="statsforecast" position="24" />
+      <module name="statslive" position="25" />
+      <module name="statsorigin" position="26" />
+      <module name="statsvisits" position="27" />
+   </tab>
+   <tab class_name="AdminThemes" display_type="slider_list">
+      <module name="blockwishlist" position="1" />
+      <module name="blocklayered" position="2" />
+      <module name="blocksharefb" position="3" />
+      <module name="blockcontact" position="4" />
+      <module name="blockcontactinfos" position="5" />
+      <module name="blockcustomerprivacy" position="6" />
+      <module name="blockpaymentlogo" position="7" />
+      <module name="blockreinsurance" position="8" />
+      <module name="blocksocial" position="9" />
+      <module name="blockcms" position="10" />
+      <module name="blockcart" position="11" />
+      <module name="blockadvertising" position="12" />
+      <module name="blockbestsellers" position="13" />
+      <module name="blockcategories" position="14" />
+      <module name="crossselling" position="15" />
+      <module name="blockcurrencies" position="16" />
+      <module name="homefeatured" position="17" />
+      <module name="gadsense" position="18" />
+      <module name="editorial" position="19" />
+      <module name="homeslider" position="20" />
+      <module name="themeinstallator" position="21" />
+      <module name="blocklanguages" position="22" />
+      <module name="blocklink" position="23" />
+      <module name="blockmanufacturer" position="24" />
+      <module name="blockmyaccount" position="25" />
+      <module name="blockmyaccountfooter" position="26" />
+      <module name="blocknewproducts" position="27" />
+      <module name="blocknewsletter" position="28" />
+      <module name="blockpermanentlinks" position="29" />
+      <module name="productcomments" position="30" />
+      <module name="productscategory" position="31" />
+      <module name="producttooltip" position="32" />
+      <module name="blocksearch" position="33" />
+      <module name="blockrss" position="34" />
+      <module name="sendtoafriend" position="35" />
+      <module name="blockspecials" position="36" />
+      <module name="blockstore" position="37" />
+      <module name="blocksupplier" position="38" />
+      <module name="blocktags" position="39" />
+      <module name="blocktopmenu" position="40" />
+      <module name="blockuserinfo" position="41" />
+      <module name="blockviewed" position="42" />
+   </tab>
+   <tab class_name="AdminShipping" display_type="slider_list">
+      <module name="dateofdelivery" position="1" />
+      <module name="carriercompare" position="2" />
+   </tab>
+   <tab class_name="AdminTaxes" display_type="slider_list">
+      <module name="avalaratax" position="1" />    
+      <module name="vatnumber" position="2" />
+   </tab>
+   <tab class_name="AdminTaxRulesGroup" display_type="slider_list">
+      <module name="vatnumber" position="1" />
+   </tab>
+   <tab class_name="AdminCategories" display_type="slider_list">
+      <module name="innovativemenu" position="1" />
+   </tab>
+   <tab class_name="AdminEmails" display_type="slider_list">
+      <module name="mailin" position="1" />
+      <module name="mailjet" position="2" />
+      <module name="newsletter" position="3" />
+      <module name="mynewsletter" position="4" />
+   </tab>
+   <tab class_name="AdminMeta" display_type="slider_list">
+      <module name="gsitemap" position="1" />
+      <module name="seohelping" position="2" />
+   </tab>
+   <tab class_name="AdminCarriers" display_type="slider_list">
+      <module name="mondialrelay" position="1" />
+      <module name="kialasmall" position="2" />
+      <module name="kiala" position="3" />
+      <module name="clickline" position="4" />
+      <module name="socolissimo" position="5" />
+      <module name="tntcarrier" position="6" /> 
+   </tab>
+   <tab class_name="AdminOrders" display_type="slider_list">
+      <module name="opensi" position="1" />
+      <module name="fianetsceau" position="2" />
+      <module name="prestafraud" position="3" />
+      <module name="gshopping" position="4" />
+   </tab>
+   <tab class_name="AdminCarts" display_type="slider_list">
+      <module name="followup" position="1" />
+      <module name="cartabandonment" position="2" />
+   </tab>
+   <tab class_name="AdminImages" display_type="slider_list">
+      <module name="watermark" position="1" />
+   </tab>
+</tab_modules_list>
